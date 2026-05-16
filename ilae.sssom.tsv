@@ -1,0 +1,20 @@
+# curie_map:
+#   ilea: https://epilepsydiagnosis.org/
+#   orcid: https://orcid.org/
+#   sct: https://snomed.info/sct/
+#   semapv: https://w3id.org/semapv/vocab/
+#   skos: http://www.w3.org/2004/02/skos/core#
+#   sssom: https://w3id.org/sssom/
+# mapping_set_id: https://github.com/sein-nl/ilae-sssom/ilae.sssom.tsv
+# mapping_set_description: Manually curated alignment of ILAE online diagnostic manual to SNOMED CT.
+# license: https://creativecommons.org/licenses/by/4.0/
+# mapping_date: 2026-05-16
+# comment: contributors Daniel Kapitan (orcid:0000-0001-8979-9194), Robert Helling (orcid:0000-0003-0277-8484), Sun Wook Noort (orcid:XXXX)
+subject_id	subject_label	predicate_id	object_id	object_label	mapping_justification	author_id	mapping_date	confidence	reviewer_id	comment
+ilea:seizure-classification-groupoverview	Seizure	skos:exactMatch	sct:91175000	Seizure (finding)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483 
+ilea:generalized-seizure-groupoverview	Generalized onset seizure	skos:exactMatch	sct:246545002	Generalized onset epileptic seizure (finding)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483 
+ilea:focal-seizure-overview	Focal onset seizure	skos:exactMatch	sct:29753000	Focal onset epileptic seizure (finding)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
+ilea:neonatal-seizure-overview	Neonatal seizure	skos:exactMatch	sct:87476004	Neonatal seizure (finding)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
+ilea:epilepsy-classification-groupoverview	Epilepsy	skos:exactMatch	sct:84757009	Epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
+ilea:generalized-epilepsy-groupoverview	Generalized epilepsy	skos:exactMatch	sct:19598007	Generalized epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
+ilea:focal-epilepsy-groupoverview	Focal epilepsy	skos:exactMatch	sct:230381009	Focal epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
