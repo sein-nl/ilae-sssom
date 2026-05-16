@@ -18,3 +18,4 @@ ilea:neonatal-seizure-overview	Neonatal seizure	skos:exactMatch	sct:87476004	Neo
 ilea:epilepsy-classification-groupoverview	Epilepsy	skos:exactMatch	sct:84757009	Epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
 ilea:generalized-epilepsy-groupoverview	Generalized epilepsy	skos:exactMatch	sct:19598007	Generalized epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
 ilea:focal-epilepsy-groupoverview	Focal epilepsy	skos:exactMatch	sct:230381009	Focal epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
+ilea:self-limited-neonatal-overview	Self-limited (Familial) Neonatal Epilepsy (SeLNE)	skos:exactMatch	sct:230410004	Self-limited familial neonatal epilepsy (disorder)	semapv:ManualMappingCuration	orcid:0000-0001-8979-9194	2026-05-16	1.0	orcid:0000-0003-0277-8483
