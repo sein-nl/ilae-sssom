@@ -4,7 +4,7 @@
 
 The International League Against Epilepsie (ILEA) has defined an [online diagnnostic manual](https://epilepsydiagnosis.org/) of epilepsies. The goal of [epilepsydiagnosis.org](https://epilepsydiagnosis.org) is to make available, in an easy to understand form, latest concepts relating to seizures and the epilepsies.
 
-The concepts defined by ILEA, however, do not have a strict mapping to the most commonly used vocabularies in healthcare, most notably SNOMED CT. This repository aims to fill that gap by mapping the concepts defined on [epilepsydiagnosis.org](The goal of epilepsydiagnosis.org) to SNOMED CT. This mapping is implemented in the [Simple Standard of Sharing Ontological Mappings (SSSOM)](https://mapping-commons.github.io/sssom/dev/) standard.
+The concepts defined by ILEA, however, do not have a strict mapping to the most commonly used vocabularies in healthcare, most notably SNOMED CT. This repository aims to fill that gap by mapping the concepts defined on [epilepsydiagnosis.org](https://epilepsydiagnosis.org/) to SNOMED CT. This mapping is implemented in the [Simple Standard of Sharing Ontological Mappings (SSSOM)](https://mapping-commons.github.io/sssom/dev/) standard.
 
 ## Approach
 
