@@ -22,5 +22,5 @@ This mapping was created as part of a project to build an OMOP-based clinical da
 
 ## License
 
-[Creative Commons Attribution 4.0] license: https://creativecommons.org/licenses/by/4.0/
+[Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/)
 
